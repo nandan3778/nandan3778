@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandan3778
 - 👀 I’m interested in backend technology
-- 🌱 I’m currently learning nodeJS.mongoDB
+- 🌱 I’m currently learning nodeJS, mongoDB, Django
 -
 
 <!---
